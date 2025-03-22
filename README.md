@@ -1,6 +1,6 @@
 # Rust Web Scrapper
 
-A simple Rust application that fetches a webpage and extracts titles using the [`reqwest`](Cargo.toml#L11) and [`scraper`](Cargo.toml#L12) crates. It logs operations to `logs/scraper.log` and prints scraped titles to the console.
+A simple Rust application that fetches a webpage and extracts titles using the `reqwest` and `scraper` crates. It logs operations to `logs/scraper.log` and prints scraped titles to the console.
 
 ## Getting Started
 
